@@ -25,7 +25,7 @@ ylabel('F_1 [-o-]   |   F_2 [-x-]')
 
 %% PAPILDOMA UZDUOTIS
 % 1. Paskutinis studento ID skaitmuo
-N = 7;                                  % <-- IRASYKITE SAVO
+N = 7;
 
 % 2. Vektorius nuo N+1 iki N+4, zingsnis 0.5
 v = N+1 : 0.5 : N+4
